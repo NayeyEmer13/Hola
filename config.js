@@ -8,11 +8,11 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['5214437863111', '👑 𝙲𝚁𝙴𝙰𝙳𝙾𝚁👑', true],
-  ['5217294888993'],['573106040746'],['51929972576'],['51992004117'],['5214432220783'],['50558124470'],
+  ['522212009202', '👑 𝙲𝚁𝙴𝙰𝙳𝙾𝚁👑', true],
+  ['522212009202'],['522212009202'],['522212009202'],['522212009202'],['522212009202'],['522212009202'],
 ];
 
-global.prems = ['51992004127']
+global.prems = ['522212009202']
 global.packname = '☯︎ 𝙱𝙾𝚃\n☯︎ 𝙾𝚆𝙽𝙴𝚁';
 global.author = 'ʜᴀᴄʜɪᴋᴏ-ʙᴏᴛ-ᴍᴅ\nʜᴀᴄʜᴇᴊᴏᴛᴀ';
 global.titulowm = ' ᕼᗩᑕᕼIKO-ᗷOT-ᗰᗪ';
@@ -51,7 +51,7 @@ global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝙷𝚊𝚌𝚑𝚒𝚔𝚘-𝙱𝚘𝚝
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
-global.nomorown = '51992004112', 
+global.nomorown = '522212009202', 
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
